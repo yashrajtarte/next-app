@@ -1,3 +1,7 @@
+// Run app in dev mode - npm run dev
+// In order to build application in prod level 
+//   1. npm run build
+//   2. npm start 
 import Image from 'next/image'
 import Link from 'next/link'
 import ProductCard from './Component/ProductCard'
